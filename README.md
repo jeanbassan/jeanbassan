@@ -12,9 +12,15 @@ and learning new programming languages.
 ## Let's talk!
 
 <div>
-    <a><img src="https://img.shields.io/badge/jean.-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://twitter.com/_harmonyguy"><img src="https://img.shields.io/badge/_harmonyguy-7289DA?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="mailto:eu@jeanbassan.com.br"><img src="https://img.shields.io/badge/-eu@jeanbassan.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://discord.com/users/334029761107984384" target="_blank">
+        <img src="https://img.shields.io/badge/jean.-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/_harmonyguy" target="_blank">
+        <img src="https://img.shields.io/badge/_harmonyguy-7289DA?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:eu@jeanbassan.com.br">
+        <img src="https://img.shields.io/badge/-eu@jeanbassan.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
 
 <a href="https://github.com/Jean2233">
