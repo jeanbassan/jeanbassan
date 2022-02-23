@@ -6,7 +6,7 @@ and learning new programming languages.
 
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jean2233&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jean2233&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,prs,issues" />
 </div>
 
 ## Let's talk!
