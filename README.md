@@ -14,17 +14,17 @@ and learning new programming languages.
 
 <div>
     <a href="https://discord.com/users/334029761107984384" target="_blank">
-        <img src="https://img.shields.io/badge/jean.-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/jeanbassan-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://twitter.com/_harmonyguy" target="_blank">
-        <img src="https://img.shields.io/badge/_harmonyguy-7289DA?style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://twitter.com/jeanbassan" target="_blank">
+        <img src="https://img.shields.io/badge/jeanbassan-7289DA?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="mailto:eu@jeanbassan.com.br">
         <img src="https://img.shields.io/badge/-eu@jeanbassan.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
 
-<a href="https://github.com/Jean2233">
+<a href="https://github.com/jeanbassan">
     <br>
-    <img src="https://komarev.com/ghpvc/?username=Jean2233" />
+    <img src="https://komarev.com/ghpvc/?username=jeanbassan" />
 </a>
