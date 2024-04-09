@@ -1,13 +1,13 @@
 # Hi there 👋
 
-I'm Jean Bassan and I'm 20yo. <br>
+I'm Jean Bassan and I'm 21yo. <br>
 Currently working with Minecraft servers <br>
 and learning new programming languages.
 
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harmonyguy&layout=compact&theme=dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean2233&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbassan&theme=dark&hide_border=true" />
 </div>
 
 ## Let's talk!
