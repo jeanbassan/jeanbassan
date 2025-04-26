@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jean Bassan and I'm 21yo. <br>
+I'm Jean Bassan and I'm 22yo. <br>
 Currently working with Minecraft servers <br>
 and learning new programming languages.
 
